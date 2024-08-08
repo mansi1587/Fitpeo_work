@@ -1,0 +1,97 @@
+/* .maindiv{
+    width: 100vw;
+    height: 100vh;
+} */
+
+
+.top-circle{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(139, 139, 139);
+    text-align: center;
+
+}
+.bell-circle{
+    width: 5px;
+    height: 5px;
+    background-color: blue;
+}
+.inside_div{
+    width: 170px;
+    height: 100%;
+}
+.icon_div{
+
+    width: 50px;
+    height: 50px;
+    
+    backdrop-filter: blur(10px);
+      
+}
+.circle_percentage{
+    width: 70px;
+    height: 70px;
+    border: 6px solid blue;
+    border-left-color: white;
+}
+.inside_div2{
+    width: 250px;
+    height: 100%;
+}
+.graph_div{
+    width: 760px;
+    height: 100%;
+}
+.graph_div2{
+    width: 250px;
+    height: 100%;
+}
+.graph_main{
+    position: relative;
+    z-index: 0;
+}
+.graph-draw{
+    position: absolute;
+    z-index: 1;
+}
+.graph2_circle{
+    width: 50px;
+    height: 50px;
+    backdrop-filter: blur(10px);
+    
+}
+.graph2_small_circle{
+    width: 25px;
+    height: 25px;
+}
+
+
+
+.order_div{
+    width: 760px ;
+    height: 100% ;
+}
+.customer_div{
+    width: 250px;
+    height: 250px;
+}
+
+
+td{
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    color: white;
+}
+
+
+/* .ty{
+    padding: 50px;
+    margin: 30px;
+    border: opepp;
+    position: absolute;
+    z-index: 1;
+    border: 50%;
+    border-top-left-radius: ;
+} */
